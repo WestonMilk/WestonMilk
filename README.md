@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WestonMilk
+- 👀 I’m interested in python coding.
+- 🌱 I’m currently learning how to make discord bots.
+- 💞️ I’m looking to collaborate on discord bots.
+- 📫 How to reach me shadowsenhormilk@outloook.com
